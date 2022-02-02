@@ -1,0 +1,28 @@
+
+
+#header {
+ background-color: #cf5d5b;
+}
+.text {
+ background-color: #cfcacb;
+}
+.head {
+  background-color: #ba8f98;
+}
+.spanstyle {
+  color: #cf5d5b;
+}
+.nav {
+  background-color: #cfcacb;
+}
+a:link {
+ color: #a8323e;
+}
+
+a:visited {
+ color: #30b84f;
+}
+
+a:hover {
+ color: #dde685;
+}
