@@ -1,0 +1,29 @@
+a:link {
+ color: #00ff00;
+}
+a:hover {
+ color: #ff0000;
+}
+.h1 {
+ background-color: #ADD8E6;
+}
+#firetitle {
+  color: #BD2100;
+}
+#imthedoctor {
+  color: #E47C00;
+}
+#inferno {
+  background-color: #FFB100;
+  color: #0067FF;
+}
+#fathersday {
+  background-color: #196F3D;
+  color: #D2B4DE;
+}
+#art {
+  color: #45B39D;
+}
+#dr {
+  color: #B03A2E;
+}
