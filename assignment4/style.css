@@ -1,0 +1,46 @@
+
+
+.header {
+color: #eb7134;
+font-family: sans-serif;
+font-style: italic;
+font-weight: normal;
+}
+.text {
+ background-color: #f7f2f2;
+}
+.spanstyle {
+  color: #cf5d5b;
+}
+a:link {
+ color: #a8323e;
+}
+a:visited {
+ color: #30b84f;
+}
+a:hover {
+ color: #dde685;
+}
+h2 {
+  color: #eb7134;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+body {
+  font-family: sans-serif;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: top-left;
+  background
+}
+.imgbox {
+  border: 10PX solid #000000;
+  padding: 5px; color: #ffffff;
+}
+.info {
+text-align: center;
+}
+.justify {
+  text-align: justify;
+}
