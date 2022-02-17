@@ -1,0 +1,77 @@
+body {
+  background-image: url(a5bg.png);
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+.whitebackground a:hover {
+   color: #ff0000;
+}
+a:hover {
+text-decoration: underline;
+}
+h1 {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  margin-bottom: 30px;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid #ffffff
+}
+h2 {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  border-bottom: 4px solid #000000;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+main{
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  margin-bottom: 30px;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid #ffffff;
+}
+footer {
+  border: 2px solid #ffffff;
+  background-color: darkblue;
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Verdana
+  }
+
+nav ul {
+  list-style-type: none;
+  margin: 20px 0px 20px 0px;
+  padding: 0;
+  border: 0px solid red;
+}
+nav li {
+  display: inline-block;
+  padding: 0;
+  margin: 10px;
+  width: 150px;
+  color: #ffffff;
+}
+
+nav li a {
+  color: #ffffff;
+  border: 1px solid #000000;
+  padding: 10px;
+  background-color: #00058b;
+  font-weight: normal;
+}
+nav li a:hover {
+background-image: linear-gradient(to top, #136ef6, #165fe4, #1651d2, #1543c0, #1335ae);
+}
