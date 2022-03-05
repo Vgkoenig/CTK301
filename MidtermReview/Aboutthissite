@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Midterm Review</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div id="wrapper">
+	<header>
+		<h1><ul><li><a href="MidtermReview.html">Welcome Page</a></li></ul></h1>
+	</header>
+	<nav>
+    <ul>
+      <li><a href="MidtermReview.html">Welcome Page</a></li>
+      <li><a href="page2.html">About This Site</a></li>
+      <li><a href="page3.html">Gallery</a></li>
+			<li><a href=>    </a></li>
+    </ul>
+	</nav>
+	<main>
+		<h2>Welcome!</h2>
+		<p>Spare me your space age technobabble, Attila the Hun! Yes, except the Dave Matthews Band doesn't rock. Bender, quit destroying the universe!</p>
+		</main>
+	<footer>
+		<a href="https://illinoisstate.edu/" target="_blank">
+   <img alt="isu" src="wordmark_isu.png">
+	</footer>
+	</div>
+</html>
