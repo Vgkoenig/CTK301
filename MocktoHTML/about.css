@@ -1,0 +1,29 @@
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+#Main {
+  text-align: center;
+  grid-column: span 3;
+  font-family: goodlife-brush, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+header {
+font-family: goodlife-brush, sans-serif;
+font-weight: 400;
+font-style: italic;
+  font-size: 25px;
+  padding-left: 16px;
+  padding-top: 16px;
+}
+
+.back  {
+  text-align: right;
+  padding-right: 20px;
+}
