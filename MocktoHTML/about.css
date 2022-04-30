@@ -6,6 +6,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
 }
+
 #Main {
   text-align: center;
   grid-column: span 3;
@@ -14,16 +15,50 @@
   font-style: italic;
 }
 
-header {
-font-family: goodlife-brush, sans-serif;
-font-weight: 400;
-font-style: italic;
-  font-size: 25px;
+#me {
+  float: right;
   padding-left: 16px;
-  padding-top: 16px;
+  height: 611px;
+  width: auto;
+}
+
+header {
+    font-size: 25px;
+    font-family: goodlife-brush, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 25px;
 }
 
 .back  {
   text-align: right;
   padding-right: 20px;
+}
+
+main{
+  font-family: goodlife-sans, sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: right;
+}
+
+.text {
+  padding-left: 200px;
+  padding-top: 5px;
+  margin-top: 30;
+  border-top: 3px solid #2f291d;
+  margin-left: 200px;
+}
+.text2 {
+  padding-left: 200px;
+  padding-top: 5px;
+  margin-top: 30;
+  margin-left: 200px;
+}
+footer {
+text-align: right;
+color: #2f291d;
 }
