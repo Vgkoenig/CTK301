@@ -1,0 +1,96 @@
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+#Main {
+  text-align: center;
+  grid-column: span 3;
+  font-family: goodlife-brush, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#burnout {
+  float: left;
+  padding-left: 16px;
+  padding-right: 10px;
+  grid-row: span 1;
+}
+
+#titles {
+  float: right;
+padding-top: 250px;
+  padding-right: 16px;
+  padding-left: 10px;
+  grid-row: span 1;
+}
+
+#SOM {
+  float: left;
+  padding-top: 300px;
+  padding-left: 16px;
+  padding-right: 10px;
+  grid-row: span 1;
+}
+
+#botw {
+  float: right;
+  padding-top: 350px;
+  padding-right: 16px;
+  padding-left: 10px;
+  grid-row: span 1;
+}
+
+header {
+font-family: goodlife-brush, sans-serif;
+font-weight: 400;
+font-style: italic;
+  font-size: 25px;
+  padding-left: 16px;
+  padding-top: 16px;
+}
+
+h2 {
+  font-family: goodlife-brush, sans-serif;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.back  {
+  text-align: right;
+  padding-right: 20px;
+}
+
+#description {
+font-family: goodlife-sans, sans-serif;
+}
+
+#descriptiontext {
+font-family: goodlife-sans, sans-serif;
+text-align: right;
+}
+#texthead {
+  padding-top: 250px;
+  text-align: right;
+}
+#descriptionsom {
+font-family: goodlife-sans, sans-serif;
+}
+
+#somhead {
+  padding-top: 300px;
+}
+
+#descriptionbotw {
+  font-family: goodlife-sans, sans-serif;
+text-align: right;
+}
+
+#botwhead {
+  padding-top: 350px;
+  text-align: right;
+}
